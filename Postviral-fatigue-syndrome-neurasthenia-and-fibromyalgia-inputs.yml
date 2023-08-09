@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/referral-postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia---primary.py
+inputModule3:
+  class: File
+  path: python/encephalopathy-postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia---primary.py
+inputModule4:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia-management---primary.py
+inputModule5:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia-debility---primary.py
+inputModule6:
+  class: File
+  path: python/neurasthenia---primary.py
+inputModule7:
+  class: File
+  path: python/fatigue---primary.py
+inputModule8:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia-encephalomyelitis---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia---primary.py
+inputModule10:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia---primary.py
+inputModule11:
+  class: File
+  path: python/fibromyalgia---primary.py
+inputModule12:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia-fibrositis---primary.py
+inputModule13:
+  class: File
+  path: python/postviral---primary.py
+inputModule14:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia-history---primary.py
+inputModule15:
+  class: File
+  path: python/postviral-fatigue-syndrome-neurasthenia-and-fibromyalgia---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
